@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://qly0131.github.io
+url: https://qinlingyungao.github.io
 date_format: "ordinal"
-title: 博士买驴
-subtitle: "我的写字台"
-description: "读书，看片，写作"
+title: 秦岭云高
+subtitle: "我的存稿箱"
+description: "写作"
 keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -115,10 +115,10 @@ gitment:
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: qly0131
-    repo: blog-comments
-    clientID: 971f10ebaf89ce02201e
-    clientSecret: c85e74eeb767640ba271107a28c8d81ef11f7dcf
+    owner: qinlingyungao
+    repo: comments
+    clientID: c2aa298c2783881c301f
+    clientSecret: f02a67ea6e5ec411d85999022385b43da149572f
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
