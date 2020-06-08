@@ -21,7 +21,7 @@ cdn:
 components:
     # 分享
     share:
-        enabled: false
+        enabled: true
     # 不蒜子访问统计
     busuanzi:
         enabled: true
@@ -139,6 +139,6 @@ google:
     analytics_id: UA-80669434-1
     adsense:
         footer: false
-        sidebar: true 
+        sidebar: false
         content_header: false
         content_footer: false
