@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 好奇心
-subtitle: 
-tags: [排球少年！！, 宫侑, 佐久早圣臣, Mature]
+categories: [排球少年！！, 宫侑, 佐久早圣臣, Mature]
+description: 宫侑强烈和异常的好奇心
+keywords: 
 ---
 
 **好奇心**
