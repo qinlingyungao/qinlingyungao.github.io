@@ -2,11 +2,11 @@
 layout: post
 title: 我有一个朋友
 categories: [排球少年！！, 木兔光太郎, 赤苇京治, General Audiences]
-description: 有话不直接说
+description: 有话不好好说
 ---
 
 
-**我有一个朋友**
+**有话不好好说**
 
 
 {: .box-note}  
