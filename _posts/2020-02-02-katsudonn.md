@@ -1,8 +1,10 @@
+
 ---
 layout: post
 title: カツ丼
-subtitle: 2.3 昼神幸郎生贺
-tags: [排球少年！！, 昼神幸郎, 星海光来, General Audiences]
+categories: [排球少年！！, 昼神幸郎, 星海光来, General Audiences]
+description: 2.3 昼神幸郎生贺，我就喜欢写他们吃东西.jpg
+keywords: 
 ---
 
 **カツ丼**
