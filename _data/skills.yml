@@ -1,19 +1,7 @@
-- name: Software Engineer Keywords
+- name: 同人作者，语c玩家
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - 全职高手
+      - 排球少年！！
+      - 圣斗士星矢-冥王神话
+      - 钢之炼金术师
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
